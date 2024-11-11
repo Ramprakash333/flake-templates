@@ -12,7 +12,7 @@
     templates.python3 = {
       path = ./python3;
       description = "A flake template for python development environment";
-    }
+    };
   };
 }
 
